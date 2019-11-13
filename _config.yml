@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "chosenone"
+  # name   : "chosenone"
   avatar : "/assets/images/face_hat_grey.jpg"
   bio    : "IT Security Professional, more red than blue, constant learner"
   links:
