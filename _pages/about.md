@@ -16,4 +16,3 @@ All thoughts and opinions expressed here are my own, and may not be representati
 Contact info
 Should you need to contact me you can always do so on:
 	• Twitter: @Chosenonepl
-Email: hal9k2 [at] outlook [dot] com
