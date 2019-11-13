@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/face_hat_grey.jpg"
   bio    : "IT Security Professional, more red than blue, constant learner"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Chosenonepl"
