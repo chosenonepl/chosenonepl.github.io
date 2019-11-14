@@ -1,11 +1,9 @@
 ---
-title: Linux Notes / Cheatsheet
+permalink: /linux_cheatsheet/
+title: "Linux Notes / Cheatsheet"
 tags: [Linux Cheatsheet,Exploitation,Priv Esc,Post Exploit,File Transfer,Lateral Movement]
 published: true
-description: Notes/tricks for Linux Based Systems
-thumbnail: https://code.osu.edu/uploads/-/system/group/avatar/313/tux-large-bw.png
 ---
-
 
 
 A place for me to store my notes/tricks for Linux Based Systems
