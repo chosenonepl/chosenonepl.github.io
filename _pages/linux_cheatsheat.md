@@ -1,16 +1,13 @@
 ---
 permalink: /linux_cheatsheet/
-title: "Linux Notes / Cheatsheet"
+title: "linux"
 tags: [Linux Cheatsheet,Exploitation,Priv Esc,Post Exploit,File Transfer,Lateral Movement]
 published: true
 ---
 
-
 A place for me to store my notes/tricks for Linux Based Systems
 
 **Note: These notes are heavily based off other articles, cheat sheets and guides etc. I just wanted a central place to store the best ones.**
-
-Also this will probably be a lot smaller than my Windows Cheat sheet because I hate Linux.
 
 ## [](#header-2)Enumeration
 
