@@ -1,8 +1,6 @@
 ---
 permalink: /linux_cheatsheet/
-title: "linux"
-tags: [Linux Cheatsheet,Exploitation,Priv Esc,Post Exploit,File Transfer,Lateral Movement]
-published: true
+title: "Linux"
 ---
 
 A place for me to store my notes/tricks for Linux Based Systems
