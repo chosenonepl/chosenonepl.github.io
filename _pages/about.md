@@ -13,6 +13,4 @@ I’m always interested in hearing from people with similar professional interes
 ## Disclaimer
 All thoughts and opinions expressed here are my own, and may not be representative of my employer, or any other entity unless I am specifically quoting someone.
 
-## Contact info
-Should you need to contact me you can always do so on:
-- Twitter: [https://twitter.com/Chosenonepl](@Chosenonepl)
+
